@@ -17,4 +17,3 @@ if sum_of_factor < number:
     print("DEFICIENT NUMBER")
 if sum_of_factor > number:
     print("ADEQUATE NUMBER")
-
